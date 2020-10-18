@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m a technology professional with 3 yrs of software development experience. I enjoy helping others understand agile development principles and am passionate about collaborating with engineers to help build products and services that delight customers.
+I’m a technology professional with 3 yrs of software development experience. I enjoy helping others understand agile development principles and am passionate about collaborating with engineers to help build products and services that delight users.
 <!--
 **randyrodgers/randyrodgers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
